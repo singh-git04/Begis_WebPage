@@ -1,7 +1,3 @@
-Of course\! Here is a `README.md` file written from your perspective, focusing on the skills you've implemented in the project. It's crafted to sound authentic and personal, reflecting your learning journey.
-
------
-
 # Beigs\_Webpage
 
 Hey\! This is a simple webpage project I built to practice and improve my HTML and CSS skills. It's a clean, minimal landing page design that I used to experiment with layout and positioning techniques.
