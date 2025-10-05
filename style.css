@@ -64,11 +64,12 @@ font-weight: 100;
 
 }
 
+
 #first{
     position: absolute;
-    left: 58%;
-    top:44%;
-    height: 350px;
+    left: 42%;
+    top: 53%;
+    height: 270px;
 }
 
 #second{
@@ -77,10 +78,12 @@ font-weight: 100;
     left: 51%;
     height: 250px;
 }
+
+
 #third{
     position: absolute;
-    left: 42%;
-    top: 53%;
-    height: 270px;
+    left: 58%;
+    top:44%;
+    height: 350px;
 }
 
